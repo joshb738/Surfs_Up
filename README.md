@@ -22,7 +22,7 @@ The following statistics can be determined based on **1,700** recorded temperatu
 - There has been a low **64°F**
 
 <p align="center">
-  <img src="Resources/june_temp_stats.PNG" width="900"/>
+  <img src="Resources/june_temp_stats.PNG"/>
 </p>
 
 
@@ -35,7 +35,7 @@ The following statistics can be determined based on **1,517** recorded temperatu
 - There has been a low **56°F**
 
 <p align="center">
-  <img src="Resources/dec_temp_stats.PNG" width="900"/>
+  <img src="Resources/dec_temp_stats.PNG"/>
 </p>
 
 
