@@ -21,10 +21,7 @@ The following statistics can be determined based on **1,700** recorded temperatu
 - There has been high of **85°F** 
 - There has been a low **64°F**
 
-<p align="center">
   <img src="Resources/june_temp_stats.PNG"/>
-</p>
-
 
 2. **December Temperature**
 
@@ -34,10 +31,7 @@ The following statistics can be determined based on **1,517** recorded temperatu
 - There has been high of **83°F** 
 - There has been a low **56°F**
 
-<p align="center">
-  <img src="Resources/dec_temp_stats.PNG"/>
-</p>
-
+<img src="Resources/dec_temp_stats.PNG"/>
 
 ## Summary
 
