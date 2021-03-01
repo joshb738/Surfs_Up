@@ -35,7 +35,7 @@ The following statistics can be determined based on **1,517** recorded temperatu
 
 ## Summary
 
-Based on the results, we can determine that the temperature in Oahu is roughly the same during the months of June and December. Despite December experiencing low temperatures of 56°F, both months have experienced temperature highs in the mid 80's range which would allow sustainable year-round business for the Surf & Ice Cream shop.
+Based on the results, we can determine that the temperature in Oahu is roughly the same during the months of June and December. Despite December experiencing low temperatures of 56°F, both months have experienced temperature highs in the mid 80's range which would allow sustainable year-round business for the Surf & Ice Cream shop. Additionally, if the Surf & Ice cream require further details regarding Oahu climate, a statistics analysis of the precipitation for June and December may also prove be insightful.
 
 **Additional Queries For Analysis:**
  
