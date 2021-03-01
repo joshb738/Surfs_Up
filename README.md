@@ -13,7 +13,7 @@ The following analysis was performed to provide statistics regarding temperature
 
 ## Results
 
-1. **June Temperature**
+1. June Temperature
 
 The following statistics can be determined based on **1,700** recorded temperatures for the month of June:
 
@@ -23,7 +23,7 @@ The following statistics can be determined based on **1,700** recorded temperatu
 
   <img src="Resources/june_temp_stats.PNG"/>
 
-2. **December Temperature**
+2. December Temperature
 
 The following statistics can be determined based on **1,517** recorded temperatures for the month of December:
 
@@ -37,11 +37,7 @@ The following statistics can be determined based on **1,517** recorded temperatu
 
 Based on the results, we can determine that the temperature in Oahu is roughly the same during the months of June and December. Despite December experiencing low temperatures of 56°F, both months have experienced temperature highs in the mid 80's range which would allow sustainable year-round business for the Surf & Ice Cream shop.
 
+  <img src="Resources/june_prcp_stats.PNG"/>
 
-<p align="center">
-  <img src="Resources/june_prcp_stats.PNG" width="900"/>
-</p>
+  <img src="Resources/dec_prcp_stats.PNG"/>
 
-<p align="center">
-  <img src="Resources/dec_prcp_stats.PNG" width="900"/>
-</p>
