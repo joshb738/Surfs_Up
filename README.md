@@ -8,7 +8,7 @@ The following analysis was performed to provide statistics regarding temperature
 ## Resources 
 
 - Software: Anaconda 4.9.2, Jupyter Notebook 6.1.4, Python 3.8.5
-- Data Sources: [SurfsUp_Challenge](SurfsUp_Challnege.ipynb)
+- Data Sources: [SurfsUp_Challenge](SurfsUp_Challenge.ipynb)
   
 
 ## Results
