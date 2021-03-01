@@ -13,7 +13,7 @@ The following analysis was performed to provide statistics regarding temperature
 
 ## Results
 
-1. June Temperature
+#### 1. June Temperature
 
 The following statistics can be determined based on **1,700** recorded temperatures for the month of June:
 
@@ -23,7 +23,7 @@ The following statistics can be determined based on **1,700** recorded temperatu
 
   <img src="Resources/june_temp_stats.PNG"/>
 
-2. December Temperature
+#### 2. December Temperature
 
 The following statistics can be determined based on **1,517** recorded temperatures for the month of December:
 
