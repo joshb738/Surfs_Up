@@ -18,8 +18,8 @@ The following analysis was performed to provide statistics regarding temperature
 The following statistics can be determined based on **1,700** recorded temperatures for the month of June:
 
 - The average temperature for June is approximately **75°F**
-- There has been high of **85°F** 
-- There has been a low **64°F**
+- There has been a temperature high of **85°F** 
+- There has been a temperature low of **64°F**
 
   <img src="Resources/june_temp_stats.PNG"/>
 
@@ -28,8 +28,8 @@ The following statistics can be determined based on **1,700** recorded temperatu
 The following statistics can be determined based on **1,517** recorded temperatures for the month of December:
 
 - The average temperature for June is approximately **71°F**
-- There has been high of **83°F** 
-- There has been a low **56°F**
+- here has been a temperature high of **83°F** 
+- There has been a temperature low of **56°F**
 
   <img src="Resources/dec_temp_stats.PNG"/>
 
